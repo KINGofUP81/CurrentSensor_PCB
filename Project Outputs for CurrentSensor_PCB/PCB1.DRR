@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1.PcbDoc   15/07/2026  11:20:55
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : POWER/SIGNAL to GROUND
+ASCII RoundHoles File : PCB1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.71mm (28mil)                                            Round             2         PTH        5.08mm (0.20inch)
+T2      0.73mm (29mil)                                            Round             10        PTH        38.13mm (1.50inch)
+T3      0.8mm (31mil)                                             Round             13        PTH        120.90mm (4.76inch)
+T4      0.85mm (33mil)                                            Round             2         PTH        14.70mm (0.58inch)
+T5      1.245mm (49mil)                                           Round             4         PTH        12.32mm (0.49inch)
+T6      1.3mm (51mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T7      5mm (197mil)                                              Round             2         PTH        19.81mm (0.78inch)
+T8      6.6mm (260mil)                                            Round             4         PTH        168.68mm (6.64inch)
+T9      12.5mm (492mil)                                           Round             2         PTH        19.18mm (0.76inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              40
+
+Total Processing Time (hh:mm:ss) : 00:00:00

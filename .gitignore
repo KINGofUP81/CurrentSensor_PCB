@@ -1,0 +1,9 @@
+# Altium Designer auto-backups, logs and caches
+History/
+Project Logs for */
+__Previews/
+*.PrjPcbStructure
+~$*
+.~lock.*
+*.SchDocPreview
+*.PcbDocPreview

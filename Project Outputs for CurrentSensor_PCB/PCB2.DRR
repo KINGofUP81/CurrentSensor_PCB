@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB2.PcbDoc   15/07/2026  11:22:26
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : POWER/SIGNAL to GROUND
+ASCII RoundHoles File : PCB2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.71mm (28mil)                                            Round             6         PTH        180.08mm (7.09inch)
+T2      0.711mm (28mil)                                           Round             23        PTH        218.33mm (8.60inch)
+T3      0.73mm (29mil)                                            Round             39        PTH        197.43mm (7.77inch)
+T4      0.8mm (31mil)                                             Round             36        PTH        401.42mm (15.80inch)
+T5      0.85mm (33mil)                                            Round             6         PTH        134.29mm (5.29inch)
+T6      1.245mm (49mil)                                           Round             6         PTH        110.24mm (4.34inch)
+T7      5mm (197mil)                                              Round             6         PTH        106.05mm (4.18inch)
+T8      6.6mm (260mil)                                            Round             4         PTH        432.49mm (17.03inch)
+T9      12.5mm (492mil)                                           Round             6         PTH        105.80mm (4.17inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              132
+
+Total Processing Time (hh:mm:ss) : 00:00:00
